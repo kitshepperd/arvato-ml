@@ -1,0 +1,4 @@
+outs:
+- md5: 522e64c5d323e6431f3bdd4327125793
+  size: 32338227
+  path: Udacity_CUSTOMERS_Subset.csv

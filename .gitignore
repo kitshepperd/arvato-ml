@@ -1,0 +1,25 @@
+/data/**/*
+!**/.gitkeep
+
+**/*.csv
+# Mac OS-specific storage files
+.DS_Store
+
+# vim
+*.swp
+*.swo
+
+# Mypy cache
+.mypy_cache/
+
+# pyenv
+.python-version
+
+# DVC
+!**/*.dvc
+
+.netrc
+
+old
+dagster_tutorial
+

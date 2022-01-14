@@ -1,0 +1,4 @@
+outs:
+- md5: d8ba0059f3c2a16ea17511d1d0a5f294
+  size: 157145280
+  path: Udacity_AZDIAS_Subset.csv
